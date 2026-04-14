@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "landing-page-do-rafa",
+  "compatibility_date": "2026-04-14",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "LandingPageProject"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
